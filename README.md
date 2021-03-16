@@ -9,6 +9,7 @@
 # shadowsocks-manager
 
 A shadowsocks manager tool for multi user and traffic control.  
+机场控制面板
 Base on Node.js and SQLite.
 
 For more details, you can see [docs](https://shadowsocks.github.io/shadowsocks-manager/).
